@@ -1,4 +1,4 @@
-package com.w20079934.donation
+package com.w20079934.activities
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

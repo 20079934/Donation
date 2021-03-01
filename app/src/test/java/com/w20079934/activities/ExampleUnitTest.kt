@@ -1,4 +1,4 @@
-package com.w20079934.donation
+package com.w20079934.activities
 
 import org.junit.Test
 
